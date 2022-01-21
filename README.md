@@ -13,7 +13,7 @@ Check if a queue is full of values. Notice availability of the Add function.
 ### Tail
 A location number where a new value is added.
 ### Head
-A location number where a value that is subject to removing.
+A location number of a value subject to removing.
 ### Length
 A number of values a queue can store.<br>
 If a Tail reaches the Length and a queue storage is available, Tail is back to 0.
