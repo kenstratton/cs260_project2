@@ -16,7 +16,7 @@ A location number where a new value is added.
 A location number of a value subject to removing.
 ### Length
 A number of values a queue can store.<br>
-If a Tail reaches the Length and a queue storage is available, Tail is back to 0.
+If a Tail reaches the Length and a queue storage is available, a next Tail is back to 0.
 
 # <br>2. Based on what we know about linked lists, design a list data structure that allows us to add or remove values at a given location in the list :
 ## ▼ What functions are we likely to need for a list to function like this?
