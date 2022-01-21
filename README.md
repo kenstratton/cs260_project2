@@ -34,4 +34,4 @@ Check an existence or a location of a list element based on id number or the ele
 ### Data
 A component of a Node. Data content you want to separately store in a list structure.
 ### Pointer
-Another component of a Node. With a pointer of a Node storing id info of one another, each of Nodes can connect in a sequential relationship.
+Another component of a Node. With a pointer of a Node storing id info of one another, Nodes can link together in a sequential relationship.
